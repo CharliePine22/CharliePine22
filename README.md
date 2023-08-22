@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharliePine22
-- 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Full Stack Web Development
+- 👀 Toolkit: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, Express.js, Git
 
 
 <!---
