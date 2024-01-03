@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CharliePine22
-- 🌱 I’m currently learning Full Stack Web Development
-- 👀 Toolkit: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, Express.js, Git
+- 🌱 I’m currently learning Full Stack Web Development and AI
+- 👀 Current Toolkit: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node, Python, Django, Express, Git
+- ☕ In my free time, you can find me at home playing video games, working out, or playing with my dog Yuna (points if you know the reference!)
 
 
 <!---
